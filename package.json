@@ -1,13 +1,21 @@
 {
-  "name": "random-number",
+  "name": "@dimby_razanakoto/random-number",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Dimby Razanakoto",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drazanakoto/random-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drazanakoto/random-number/issues"
+  },
+  "homepage": "https://github.com/drazanakoto/random-number#readme",
+  "description": ""
 }
